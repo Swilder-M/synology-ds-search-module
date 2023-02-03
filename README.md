@@ -1,4 +1,4 @@
-# Synology Download Station Search Module
+# Synology Download Station Search Modules
 
 ## Usage
 - Download the `.dlm` file from [here](https://github.com/Swilder-M/synology-ds-search-module/releases)
@@ -6,7 +6,7 @@
 - Click `Apply` and `OK` to save the settings
 - Enjoy it!
 
-## Other Search Module
+## Other Search Modules
 - [Synoboost](http://www.synoboost.com/)
 - [Jackett](https://github.com/Jackett/Jackett)
 - [Search Module for Jackett](https://github.com/dimitrov-adrian/jackett.dlm)
